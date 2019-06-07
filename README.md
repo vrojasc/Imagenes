@@ -50,8 +50,10 @@ Dispondras de diversos comandos que, junto al grafo, generarán diversas solucio
 
 - `/graph distance population`: Este comando generará el grafo con las ciudades con población mayor a **population** como nodos y una arista por cada par de ciudades con distancia menor a **distance**. Es necesario escribir los 2 argumentos para su correcto funcionamiento. Este es un ejemplo del comando bien utilizado.
 ![graph](https://raw.githubusercontent.com/vrojasc/Imagenes/master/imagen_graph.png)
+
 Todas las siguientes funciones actuan sobre el grafo generado. Si este no ha sido creado, creará uno automáticamente con **distance = 300** y **population = 100000** .
 ![graph automático](https://raw.githubusercontent.com/vrojasc/Imagenes/master/imagen_generar_automatico.png)
+
 Es posible que el tiempo de lectura de los datos dependa de la calidad de vuestra conexión de Internet.
 
 - `/nodes`: Muestra el numero de nodos del grafo o, lo que es lo mismo, la ciudades representadas.

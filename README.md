@@ -27,11 +27,11 @@ pip3.x install -r requirements.txt
 ### Librerias necesarias
 Las librerias necesarias para ejecutar GraphBotLP son:
 ```
-sad
-asd
-asd
-asd
-asd
+fuzzywuzzy==0.17.0
+networkx==2.3
+pandas==0.24.2
+python-telegram-bot==11.1.0
+staticmap==0.5.4
 ```
 ### Instalando
 
